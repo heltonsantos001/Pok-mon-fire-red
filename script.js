@@ -22,7 +22,7 @@
       dx = 0
       dy = 0
       px = 198
-      py = 2260
+      py = 1000
       vel = 2
       //px 11 py 17 29
       tmp = setInterval(enterFrame,20);
@@ -254,7 +254,7 @@
       px = red.offsetLeft
       
  }
- 
+ /*
  if (py == 2260 && px == 198) { 
       Body.style.overflowY = "auto";
       Body.scrollBy(0, 10000); 
@@ -275,7 +275,7 @@
   } else { 
       Body.style.overflowY = "hidden";
   }
- 
+ */
 
 
 
