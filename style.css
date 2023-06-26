@@ -1,0 +1,102 @@
+body{
+     background-color: #838383;
+     height: 100vh;
+     margin: 0px;
+
+}
+#Body{
+    // background-image: url('fundo1.jpeg');
+     background-repeat: no-repeat; 
+     background-position: center center; 
+     background-size: cover;
+     border: 3px solid black;     
+     height: 100%;
+     max-width:  1000;
+     margin: auto;
+     overflow-y: scroll;
+     position: relative;
+     margin: 0px;
+     
+}
+.fundo{
+     width: 100%;
+     margin: 0%;
+     border: 0px;
+     outline: 0px;
+     padding: 0px;
+
+}
+#casa{
+     border: 3px solid black;
+     width: 35%;
+     height: 10%;
+     position: absolute;
+     top: 85%;
+     left: 55%;
+     text-align: center;
+
+}
+#red{
+     width: 70px;
+     position: absolute;
+     left: 10%;
+     top:10%;
+}
+#chat{
+     width: 80%;
+     background-color: white;
+     position: absolute;
+     left: 10%;
+     top: 70%;
+     border-radius:100px;
+     text-align: center;
+     padding: 3%;
+     display: none;
+   
+}
+#tituloChat{
+     font-size: 40px;
+    
+}
+.Ok{
+     width: 30%;
+     height: 38%;
+     margin: 7%;
+     
+}
+#BoxControls{
+     width: 30%;
+     height: 10%;
+     position: absolute;
+     left: 5%;
+     top: 85%;
+     margin: 0%;
+     border: 3px solid black; 
+}
+.control{
+     width: 30%;
+     position: relative;
+     height: 38%;
+
+}
+#cima{
+     position: absolute;
+     top: 0%;
+     left: 35%;
+}
+#right{
+     position: absolute;
+     top: 50%;
+     left: 70%;
+}
+#left{
+     position: absolute;
+     top: 50%;
+
+}
+#bottom{
+     position: absolute;
+     top: 50%;
+     left: 35%;
+     
+}
